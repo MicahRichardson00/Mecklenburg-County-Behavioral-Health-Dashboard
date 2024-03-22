@@ -3,7 +3,7 @@
 
 Dashboard:
 
-[Mecklenburg County Behavioral Healthcare Dashboard](https://prodi.gy/docs/install)
+[Mecklenburg County Behavioral Healthcare Dashboard](https://public.tableau.com/views/FinalMeckDashboard_/MeckStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 # Project Description 
